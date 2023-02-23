@@ -7,7 +7,7 @@ function PricingDetail({plan,money,pricelevel}) {
         <div className="pricing-card">
           <div className="pricing-card-detail">
             <div className="pricing-card-plan">
-              <a className="pricing-plan">{plan}</a>
+              <a href='' className="pricing-plan">{plan}</a>
             </div>
             <div class="price-details">
               <div className="price-symbol">

@@ -1,6 +1,5 @@
 
 import React from "react";
-import Container from "react-bootstrap/esm/Container";
 import PricingDetail from "./PricingDetail";
 
 

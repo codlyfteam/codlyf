@@ -8,7 +8,7 @@ const Talk = () => {
         <div className="talk-detail">
           <p className="talk-detail-query">Have any projects in your minds?</p>
           <p className="talk-detail-project">Lets talk about it.</p>
-          <a className="talk-detail-register">REGISTER NOW</a>
+          <a href="" className="talk-detail-register">REGISTER NOW</a>
         </div>
       </Container>
     </div>

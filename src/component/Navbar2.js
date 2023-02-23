@@ -2,7 +2,7 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from "react-bootstrap/NavDropdown";
+
 
 
 function Navbar2() {
@@ -32,7 +32,7 @@ function Navbar2() {
              <Nav.Link className='nav-link' href="#pricing">About</Nav.Link>
              <Nav.Link className='nav-link' href="#home">Services</Nav.Link>
             <Nav.Link className='nav-link' href="#features">Contact</Nav.Link>
-          </Nav>
+        </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
