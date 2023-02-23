@@ -9,6 +9,8 @@ import Pricing from './component/Pricing';
 import Talk from './component/Talk';
 import Client from './component/Client';
 import Footer from './component/Footer';
+import Address from './component/Address';
+import Trade from './component/Trade';
 
 
 
@@ -24,6 +26,8 @@ function App() {
        <Talk/>
        <Client/>
        <Footer/>
+       <Address/>
+       <Trade/>
        
       
     </div>

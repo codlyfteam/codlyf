@@ -491,5 +491,68 @@
 }
 
 
+/* adress */
+
+.address {
+  background-color: #1a1a1a;
+}
+
+.adress-detail {
+  display: flex;
+  padding: 21px 0px;
+  color: #ffffff;
+}
+
+.address-location,
+.address-gmail,
+.address-working {
+  display: flex;
+  width: 34%;
+}
+
+.fa-map-marker,
+.fa-envelope,
+.fa-headphones {
+  font-size: 40px;
+  font-weight: 900;
+  margin-right: 13px;
+  margin-top: 5px;
+  color: RGB(254, 42, 92);
+}
+
+.address-address {
+}
+
+.address-location-one,
+.address-gmail-one,
+.address-working-one {
+  margin: auto;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.address-location-two,
+.address-gmail-two,
+.address-working-two {
+  margin: auto;
+  font-size: 16px;
+}
+
+.address-gmail-address {
+}
+
+.adress-working-address {
+}
+
+.trade {
+  background-color: #0e0e0e;
+}
+
+.trademark {
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 0px;
+}
+
 
 
