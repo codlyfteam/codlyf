@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codlyfteam/codlyf/static/css/main.b7b5907b.css",
+    "main.js": "/codlyfteam/codlyf/static/js/main.e0bb3ea3.js",
+    "static/js/787.ab7defed.chunk.js": "/codlyfteam/codlyf/static/js/787.ab7defed.chunk.js",
+    "index.html": "/codlyfteam/codlyf/index.html",
+    "main.b7b5907b.css.map": "/codlyfteam/codlyf/static/css/main.b7b5907b.css.map",
+    "main.e0bb3ea3.js.map": "/codlyfteam/codlyf/static/js/main.e0bb3ea3.js.map",
+    "787.ab7defed.chunk.js.map": "/codlyfteam/codlyf/static/js/787.ab7defed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b5907b.css",
+    "static/js/main.e0bb3ea3.js"
+  ]
+}
