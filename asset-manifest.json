@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codlyfteam/codlyf/static/css/main.b7b5907b.css",
-    "main.js": "/codlyfteam/codlyf/static/js/main.e0bb3ea3.js",
-    "static/js/787.ab7defed.chunk.js": "/codlyfteam/codlyf/static/js/787.ab7defed.chunk.js",
-    "index.html": "/codlyfteam/codlyf/index.html",
-    "main.b7b5907b.css.map": "/codlyfteam/codlyf/static/css/main.b7b5907b.css.map",
-    "main.e0bb3ea3.js.map": "/codlyfteam/codlyf/static/js/main.e0bb3ea3.js.map",
-    "787.ab7defed.chunk.js.map": "/codlyfteam/codlyf/static/js/787.ab7defed.chunk.js.map"
+    "main.css": "/codlyf/static/css/main.b7b5907b.css",
+    "main.js": "/codlyf/static/js/main.618040b2.js",
+    "static/js/787.ab7defed.chunk.js": "/codlyf/static/js/787.ab7defed.chunk.js",
+    "index.html": "/codlyf/index.html",
+    "main.b7b5907b.css.map": "/codlyf/static/css/main.b7b5907b.css.map",
+    "main.618040b2.js.map": "/codlyf/static/js/main.618040b2.js.map",
+    "787.ab7defed.chunk.js.map": "/codlyf/static/js/787.ab7defed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7b5907b.css",
-    "static/js/main.e0bb3ea3.js"
+    "static/js/main.618040b2.js"
   ]
 }
